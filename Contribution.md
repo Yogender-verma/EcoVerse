@@ -1,6 +1,3 @@
-Here’s your complete `CONTRIBUTING.md` file ready to copy for **EcoVerse**. 
-
-````md
 # 🤝 Contributing to EcoVerse
 
 First off — **thank you!** We are thrilled that you're interested in helping us build a more sustainable future. Whether you're fixing a bug, adding a new eco-feature, or improving documentation, your contribution makes a difference.
